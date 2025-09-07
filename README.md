@@ -45,7 +45,7 @@ Live Demo
 
 Clone the repository:
 
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/shivrajgn7/To-Do-List.git
 cd todo-list
 
 
