@@ -34,12 +34,7 @@ JavaScrip
 🚀 Demo
 
 You can see my project using  link(https://drive.google.com/file/d/1sfadVRyB5IOuwcQU-FZst2iLgCOe9t4d/view?usp=drivesdk) 
-
-Live Demo
-
-📸 Screenshots
-
-(Add screenshots or GIFs here if available)
+📸 
 
 📁 Installation & Setup
 
